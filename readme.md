@@ -10,6 +10,6 @@ Este proyecto implementa un balanceador de carga simple utilizando Node.js. El b
 - `appBot/`: Contiene el script para probar el balanceador de carga.
 
 > TODO : 
-Diferentes enfoques en el balanceador de carga
-Unificar url de los servidores de aplicacion
+> Diferentes enfoques en el balanceador de carga
+> Unificar url de los servidores de aplicacion
  
